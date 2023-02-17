@@ -1,0 +1,34 @@
+_repo: The-Negro-and-the-nation_69835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrison, Hubert H.
+    alias: Harrison, Hubert Henry
+    birthdate: 1883
+    deathdate: 1927
+    gutenberg_agent_id: '55380'
+    url: http://www.gutenberg.org/2009/agents/55380
+    wikipedia: https://en.wikipedia.org/wiki/Hubert_Harrison
+description: ''
+gutenberg_issued: '2023-01-19'
+identifiers:
+  gutenberg: '69835'
+  lccn: '22016697'
+language: en
+pgterms:marc904: http://catalog.hathitrust.org/Record/009603824
+pgterms:marc905: 20230113111627harrison
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Neal Caren. This file was derived from images generously made available
+  by the Library of Congress through the HathiTrust.
+publication_note: 'United States: Cosmo-advocate publishing co.,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcsh 'United States -- Race relations'
+- !lcc 'E151'
+- GITenberg
+title: The Negro and the nation
+url: http://www.gutenberg.org/ebooks/69835
